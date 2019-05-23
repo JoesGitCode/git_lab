@@ -55,3 +55,6 @@ The Guardian is editorially independent, meaning we set our own agenda. Our jour
 
 Every contribution we receive from readers like you, big or small, goes directly into funding our journalism. This support enables us to keep working as we do – but we must maintain and build on it for every year to come.)
 }
+
+
+// Really great work guys ... this is some of the best git work ive ever seen. Three cheers.
