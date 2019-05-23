@@ -57,4 +57,7 @@ Every contribution we receive from readers like you, big or small, goes directly
 }
 
 
-// little tip: i like to add a bit more than 90g of sugar. but thats because im a little naughty
+// Really great work guys ... this is some of the best git work ive ever seen. Three cheers.
+
+
+const bug = "I'm a bug"
