@@ -58,3 +58,6 @@ Every contribution we receive from readers like you, big or small, goes directly
 
 
 // Really great work guys ... this is some of the best git work ive ever seen. Three cheers.
+
+
+const bug = "I'm a sheep not a bug"
